@@ -20,7 +20,7 @@ number of features.
   exam_difficulty, gender, course, age, internet_access
 
 > Full dataset not publicly available.
-> sample_train.csv (500 rows) included for demonstration.
+> sample_train.csv (2000 rows) included for demonstration.
 
 ## Approach
 1. Baseline model with all 23 features → R² benchmark
